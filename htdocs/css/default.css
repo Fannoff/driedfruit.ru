@@ -1,0 +1,136 @@
+BODY
+{
+	margin: 0px;
+ 	padding: 0px;
+	background: #E2673C url(../img/fruitsbg3.jpg) bottom left repeat-x;	
+}
+
+P, UL
+{
+	font: 14px arial;
+}
+
+#leftmenu A
+{
+	text-decoration: none;
+}
+
+H1
+{
+	font: 18px arial;
+	color: #0059AD;
+	text-align: center;
+}
+
+#leftmenu
+{
+	vertical-align: top;
+	padding: 20px;
+   height: 600px;
+	max-width: 230px;
+}
+
+#leftmenu IMG
+{
+	border: 0px;
+}
+
+#leftmenu P
+{
+	padding: 5px 0px 5px 0px;
+	margin: 0px;
+	font: 11px arial;
+	color: #666;
+	text-align: center;
+}
+
+#leftmenu .whitebg, #leftmenu .whitebg TD
+{
+   background-color: #EFF7E7;
+}
+
+#defaultcontent
+{
+   background: url(../img/biglogo2.gif) 20% top no-repeat;
+	overflow: auto;
+	width: 100%;
+}
+
+#content
+{   	
+	width: 99%;
+   overflow: auto;
+	display: block;
+}
+
+.padding
+{
+	padding: 20px 0px;
+}
+
+.content .main
+{
+	background: #EFF7E7;
+	font: 14px arial;
+}
+
+.content .header
+{
+	background: url(../img/headerbg.gif) left repeat-x;
+   height: 26px;
+	color: #0059AD;
+	font: bold 12px Comic Sans MS;
+   text-transform: uppercase;
+}
+
+.content .leftbg
+{
+	background: #EFF7E7 url(../img/contentlbg.gif) left repeat-y;
+}
+
+.content .rightbg
+{
+	background: #EFF7E7 url(../img/contentrbg.gif) right repeat-y;
+}
+
+.content .topbg
+{
+	background: #EFF7E7 url(../img/contenttbg.gif) top repeat-x;
+}
+
+.content .bottombg
+{
+	background: #EFF7E7 url(../img/contentbbg.gif) bottom repeat-x;
+}
+
+#footer
+{
+	width: 100%;
+}
+
+#wrapper
+{
+	background: url(../img/bg2.gif) repeat-x top left;	
+}
+
+.brand
+{
+	color: #0059AD;
+   font: bold Lucida Sans Unicode;
+}
+
+#sidebanners, #sidepics
+{
+	margin-left:20px;
+}
+
+#sidebanners IMG
+{
+	border: solid 2px #E71C21;
+	margin: 0px 20px 20px 0px;
+}
+
+#sidepics IMG
+{
+	margin: 0px 20px 20px 0px;
+}
